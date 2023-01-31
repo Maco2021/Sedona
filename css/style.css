@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'PT Sans', sans-serif;
+  font-style: normal;
+  src: url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+}
+
+
+
+.subscribe {
+  background-image: url("../img/background/subscribe.jpg");
+
+}
+.filter {
+  background-image: url("../img/background/filter.jpg");
+
+}
